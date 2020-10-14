@@ -8,7 +8,11 @@ public class CopyPaste {
 
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		final String FILE_NAME= "ficheros\\ciudades.txt";
+=======
+		//final String FILE_NAME= "ficheros\\ciudades.txt";
+>>>>>>> branch 'master' of https://github.com/DavidRM00/ACCESO_A_DATOS.git
 		
 		final String FILE_NAME_SOURCE = "ficheros\\ciudades.txt";
 		final String FILE_NAME_TARGET = "ficheros\\localidad.txt";

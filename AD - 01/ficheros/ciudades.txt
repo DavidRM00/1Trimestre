@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Sevilla
 Huelva
 Cádiz
 Granada
+=======
+Sevilla Granada Granada Granada
+Huelva 
+Cádiz
+Granada
+Cordoba
+>>>>>>> branch 'master' of https://github.com/DavidRM00/ACCESO_A_DATOS.git

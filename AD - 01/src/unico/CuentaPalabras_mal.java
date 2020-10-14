@@ -10,6 +10,7 @@ public class CuentaPalabras_mal {
 		final String FILE_NAME = "ficheros\\ciudades.txt";
 		
 		int words = countWords(FILE_NAME);
+<<<<<<< HEAD
 		System.out.println(words+1);
 
 	}
@@ -42,6 +43,42 @@ public class CuentaPalabras_mal {
 			caracter = fch.read();
 			while (caracter !=-1) {
 				//System.out.println((char)caracter + "\t" + caracter);
+=======
+		System.out.println(words);
+
+	}
+
+	/*
+	private static void readFileChar(String FILE_NAME) {
+		
+		try {
+			int caracter;
+			FileReader fch = new FileReader(FILE_NAME);
+			caracter = fch.read();
+			while (caracter !=-1) {
+				//System.out.println((char)caracter + "\t" + caracter);
+				caracter = fch.read();			}
+			
+			fch.close();
+		} catch (FileNotFoundException e) {
+			System.err.println("Fichero no encontrado.");
+		} catch (IOException e) {
+			System.err.println("Error de acceso.");
+		}
+		
+	}
+	
+	*/
+	
+	private static int countWords(String FILE_NAME) {
+		int iContador = 0;
+		try {
+			int caracter;
+			FileReader fch = new FileReader(FILE_NAME);
+			caracter = fch.read();
+			while (caracter >=-1) {
+				//System.out.println((char) + "\t" + words);
+>>>>>>> branch 'master' of https://github.com/DavidRM00/ACCESO_A_DATOS.git
 				caracter = fch.read();		
 				if (caracter==' ') {
 					iContador++;
