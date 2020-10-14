@@ -41,12 +41,14 @@ public class Principal extends JFrame {
 	 */
 	public Principal() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 450, 300);
+		setBounds(100, 8, 450, 300);
 		getContentPane().setLayout(null);
 		
 		JTextPane textPane = new JTextPane();
 		textPane.setBounds(139, 40, 116, 23);
 		getContentPane().add(textPane);
+		
+		
 		
 		JTextPane textPane_1 = new JTextPane();
 		textPane_1.setBounds(139, 75, 116, 23);
@@ -55,5 +57,6 @@ public class Principal extends JFrame {
 		JLabel lblNewLabel = new JLabel("New label");
 		lblNewLabel.setBounds(57, 84, 48, 14);
 		getContentPane().add(lblNewLabel);
+		
 	}
 }
