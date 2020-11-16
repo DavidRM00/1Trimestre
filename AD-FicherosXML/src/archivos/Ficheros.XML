@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+
+	<Jugador numero="393">
+		<nombre>Pepe</nombre>
+		<apellidos>López Gutierrez</apellidos>
+		<nick>Batman</nick>
+		<puntos>1200</puntos>
+	</Jugador>
+	
+	
+	<Entrenador colegiado="52">
+		<nombre>Joan</nombre>
+		<apellidos>Lopez Marquez</apellidos>
+		<edad>47</edad>
+	</Entrenador>
+	
+	
+	<Jugador numero="420">
+		<nombre>Paco</nombre>
+		<apellidos>Perez Rico</apellidos>
+		<nick>Obiwan</nick>
+		<puntos>2056</puntos>
+	</Jugador>
+	
+	
+	<Entrenador colegiado="34">
+		<nombre>Carlos</nombre>
+		<apellidos>Borjabad Ballano</apellidos>
+		<edad>42</edad>
+	</Entrenador>
+	
+	
+	<Jugador numero="552">
+		<nombre>David</nombre>
+		<apellidos>Jimenez Sanchez</apellidos>
+		<nick>Superman</nick>
+		<puntos>1866</puntos>
+	</Jugador>
+	
+	
+	<Entrenador colegiado="29">
+		<nombre>Juan</nombre>
+		<apellidos>Gomez Ramirez</apellidos>
+		<edad>39</edad>
+	</Entrenador>
+	
+	
+</game>
