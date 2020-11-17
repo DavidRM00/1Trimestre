@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<jugador numero ="393">
+		<nombre>Pepe</nombre>
+		<apellidos>López Gutierrez</apellidos>
+		<nick>Batman</nick>
+		<puntos>1200</puntos>
+	</jugador>
+	
+	<entrenador colegiado = "123">
+		<nombre>Juan</nombre>
+		<apellidos>López Márquez</apellidos>
+		<edad>47</edad>
+	</entrenador>
+	
+	<jugador numero ="493">
+		<nombre>Ana María</nombre>
+		<apellidos>Cantilejo Gómez</apellidos>
+		<nick>Sevillana</nick>
+		<puntos>1475</puntos>
+	</jugador>
+	
+	<entrenador colegiado = "456">
+		<nombre>Alvaro</nombre>
+		<apellidos>Carrillo García</apellidos>
+		<edad>62</edad>
+	</entrenador>
+	
+	<entrenador colegiado = "987">
+		<nombre>Fernando</nombre>
+		<apellidos>Barrera Jiménez</apellidos>
+		<edad>56</edad>
+	</entrenador>
+	
+	<jugador numero ="593">
+		<nombre>Julián</nombre>
+		<apellidos>Torres Martínez</apellidos>
+		<nick>Batman</nick>
+		<puntos>831</puntos>
+	</jugador>
+</game>
