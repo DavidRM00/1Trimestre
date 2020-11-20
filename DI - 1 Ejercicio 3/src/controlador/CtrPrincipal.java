@@ -29,7 +29,7 @@ public class CtrPrincipal {
 		
 		public static void borrar() {
 			
-			if (JOptionPane.showConfirmDialog(null, "Confirmar el borrado del producto" +FrmPrincipal.textField.getText(), "Confirmar Borrado", .YES_OPTION) == JOptionPane.YES_OPTION) {
+			if (JOptionPane.showConfirmDialog(null, "Confirmar el borrado del producto" +FrmPrincipal.textField.getText(), "Confirmar Borrado", JOptionPane.YES_OPTION) == JOptionPane.YES_OPTION) {
 				
 				//limpiar();
 				

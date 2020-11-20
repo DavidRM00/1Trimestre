@@ -132,10 +132,6 @@ public class Producto implements Serializable{
 					+ ", proveedor=" + proveedor + ", fragil=" + fragil + ", obsoleto=" + obsoleto + ", pvp=" + pvp + "]";
 		}
 		
-		
-		
-
-	}
 
 
 }
