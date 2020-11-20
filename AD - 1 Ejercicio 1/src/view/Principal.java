@@ -31,7 +31,7 @@ public class Principal {
 		lista.add(new Coche(1222,"Seat",C4));
 		lista.add(new Coche(1222,"Citroen",C5));
 		
-		GestFchAD.writeDataObject(FILE_NAME, lista);
+		//GestFchAD.writeDataObject(FILE_NAME, lista);
 		
 	
 	}

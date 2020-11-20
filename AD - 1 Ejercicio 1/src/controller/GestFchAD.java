@@ -9,6 +9,7 @@ import java.util.List;
 import model.Coche;
 
 public class GestFchAD {
+	public String FILE_NAME;
 
 	
 	 public static void writeDataObject(String FILE_NAME, List<Coche> lista) {
